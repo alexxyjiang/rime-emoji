@@ -15,6 +15,9 @@
         "file": "emoji_word.txt"
       }, {
         "type": "text",
+        "file": "emoji_word_extend.txt"
+      }, {
+        "type": "text",
         "file": "emoji_category.txt"
       }]
     }
